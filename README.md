@@ -1,7 +1,5 @@
 > # **M300**  - Cheat sheet
 
-**Author**: Juan Cardoso
-
 ---
 
 This cheat sheet will prove itself useful to remember the different commands I will have to use along the M300
